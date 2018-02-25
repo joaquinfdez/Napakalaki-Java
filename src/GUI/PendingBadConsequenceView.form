@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="UnaManoEnum1" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="DosManosEnum1" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="JNumUnaManoOcultos" alignment="0" max="32767" attributes="0"/>
+                          <Component id="JNumDosManosOcultos" alignment="0" min="-2" pref="49" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="UnaManoEnum" min="-2" max="-2" attributes="0"/>
+                          <Component id="DosManosEnum" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="JNumUnaManoVisibles" alignment="0" max="32767" attributes="0"/>
+                          <Component id="JNumDosManosVisibles" min="-2" pref="49" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="CualquieraEnum" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="JNumVisibles" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="PendingBCEnum" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="HelmetEnum" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="JNumCascosVisibles" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Component id="TesorosVisiblesEnum" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                      <Component id="TesorosOcultosEnum" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="ZapatosEnum1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="JNumZapatosOcultos" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="ArmaduraEnum1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="HelmetEnum1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="CualquieraEnum1" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="JNumCascosOcultos" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JNumArmaduraOcultos" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JNumOcultos" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="ZapatosEnum" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="JNumZapatosVisibles" min="-2" pref="10" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="ArmaduraEnum" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JNumArmadurasVisibles" min="-2" pref="16" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="PendingBCEnum" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="TesorosVisiblesEnum" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="HelmetEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumCascosVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UnaManoEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumUnaManoVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DosManosEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumDosManosVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ArmaduraEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumArmadurasVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ZapatosEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumZapatosVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="CualquieraEnum" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumVisibles" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="38" max="32767" attributes="0"/>
+              <Component id="TesorosOcultosEnum" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="HelmetEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumCascosOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="UnaManoEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumUnaManoOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DosManosEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumDosManosOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ArmaduraEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumArmaduraOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ZapatosEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumZapatosOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="CualquieraEnum1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="JNumOcultos" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="PendingBCEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BadConsequence Pendiente"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="HelmetEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Casco:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UnaManoEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Una Mano:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ArmaduraEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Armadura:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ZapatosEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zapatos:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="TesorosVisiblesEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tesoros Visibles"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="CualquieraEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cualquiera:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="TesorosOcultosEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tesoros Ocultos"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumCascosVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumUnaManoVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumArmadurasVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumZapatosVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ArmaduraEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Armadura:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ZapatosEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zapatos:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="CualquieraEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cualquiera:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumCascosOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumArmaduraOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumZapatosOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="HelmetEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Casco:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DosManosEnum">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dos Manos:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumDosManosVisibles">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DosManosEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dos Manos:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumDosManosOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="JNumUnaManoOcultos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="UnaManoEnum1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Una Mano:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
